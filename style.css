@@ -18,6 +18,10 @@ body{
     margin-bottom: 5%;
     text-align: center;
 }
+#centerAlign{
+    text-align: center;
+    margin-left: -20%;
+}
 .container{
     position: relative;
     display: flex;
